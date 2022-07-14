@@ -41,9 +41,9 @@ log - admin cmd
 ```
 
 ### Support:
-* Join ?9v83& channel
+* Join Movies channel
 </br>
-<a href="https://t.me/aroute1">
+<a href="https://t.me/holy_angle">
 
 ###
 
